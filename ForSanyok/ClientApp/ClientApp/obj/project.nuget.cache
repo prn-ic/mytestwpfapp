@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m5zdXtb1yT3P6zNekX74c5clkFixJ9H3M8XIbxqVQhoHPKzApgvZH9zTR5sW/udETliurBtHlCBDpV/Th2xBbA==",
+  "dgSpecHash": "DdLyMl0GvC2bpGbRQNvx3i+3k5ITyJWc/VEn7AyyfShVZIBvV/EJakMZ0WIfBF76DaxL6FpYqf34Ljbw1j5kog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PARANOIC\\Documents\\GitHub\\WordSkills\\FIRST STEP. ZMQP\\ForSanyok\\ClientApp\\ClientApp\\ClientApp.csproj",
+  "projectFilePath": "C:\\UE9TSEVMIE5BSFVZ\\Git\\mytestwpfapp\\ForSanyok\\ClientApp\\ClientApp\\ClientApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PARANOIC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
